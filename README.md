@@ -13,7 +13,7 @@ A bot that automates data wins in the Dialog Wow app! 🚀
 - ✅ Auto Scrap
 
 ## 🤖 Telegram Bot
-Use our Telegram bot: [@dialogwow_bot](https://t.me/dialogwow_botapp)
+Use our Telegram bot: [@dialogwow_bot](https://t.me/dialogwow_bot)
 
 ## 📱 Mobile App
 Download the app: 
