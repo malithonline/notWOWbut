@@ -8,14 +8,16 @@ A bot that automates data wins in the Dialog Wow app! 🚀
 1. **Click** "More details"
 2. **Then click** "Install"
 
+&nbsp;
 
 [![Download APK v1.0](src/downloadbutton.jpg)](https://github.com/malithonline/notwow/releases/download/main/notwow.apk)
 
-
+&nbsp;
 
 > 🚨 **Hey #Dialog #WoW crowd!**
 > 
 > Running? That's so yesterday. We've got a shortcut!
+
 
 ## ✨ Features
 - ✅ Automated Data Win
