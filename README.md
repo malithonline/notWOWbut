@@ -1,6 +1,11 @@
 # 🎮 DialogWoW Automation Bot
 A bot that automates data wins in the Dialog Wow app! 🚀
 
+**Installation Instructions:**
+*If you receive an app scan recommendation:*
+1️⃣ Click "More details"
+2️⃣ Then click "Install"
+
 [![Download APK v1.0](src/downloadbutton.jpg)](https://github.com/malithonline/notwow/releases/download/main/notwow.apk)
 
 > 🚨 **Hey #Dialog #WoW crowd!**
@@ -18,7 +23,6 @@ Use our Telegram bot: [@dialogwow_bot](https://t.me/dialogwow_bot)
 ## 📱 Mobile App
 Download the app: 
 - [Latest Release (v1.0)](https://github.com/malithonline/notwow/releases)
-
 
 ## 🔬 Research
 I've been investigating the Dialog Wow app, particularly the ways we can win mobile data through games like the Megawasa Scratch and Megarun. It got me thinking—why not automate this? So, I started looking into ways to make it happen.
