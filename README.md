@@ -1,10 +1,12 @@
 # 🎮 DialogWoW Automation Bot
 A bot that automates data wins in the Dialog Wow app! 🚀
 
-**Installation Instructions:**
+❗❗ ## **Installation Instructions:**
+
 *If you receive an app scan recommendation:*
-1️⃣ Click "More details"
-2️⃣ Then click "Install"
+
+1. **Click** "More details"
+2. **Then click** "Install"
 
 [![Download APK v1.0](src/downloadbutton.jpg)](https://github.com/malithonline/notwow/releases/download/main/notwow.apk)
 
