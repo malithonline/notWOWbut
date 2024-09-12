@@ -8,7 +8,7 @@ A bot that automates data wins in the Dialog Wow app! 🚀
 1. **Click** "More details"
 2. **Then click** "Install"
 
-🔴 Old APK removed and no longer works. Please download the new APK.
+🔴 Download the new APK. old one is outdated. OAuth flow changed by Dialog. This is my final update as I’m leaving the project after spending too much time on it.
 &nbsp;
 
 [![Download APK v1.0](src/downloadbutton.jpg)](https://github.com/malithonline/notwow/releases/download/main/notwow.apk)
