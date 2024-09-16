@@ -1,6 +1,6 @@
 # 🎮 DialogWoW Automation Bot
 A bot that automates data wins in the Dialog Wow app! 🚀
-
+## 🔴 **Update - App is down as requested by Dialog.**
 ## 🔴 **Installation Instructions:**
 
 *If you receive an app scan recommendation:*
